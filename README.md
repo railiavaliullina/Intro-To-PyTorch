@@ -17,4 +17,4 @@
 
 File to run:
 
-  PyTorch implementation: main.py
+    PyTorch implementation: main.py
