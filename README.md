@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-File to run:
+Files to run:
 
-    PyTorch implementation: main.py
-    Other implementations: <Catalyst/Ignite/Lightning/Fastai>Code/main.py
+    1) PyTorch implementation: main.py
+    2) Other implementations: <Catalyst/Ignite/Lightning/Fastai>Code/main.py
