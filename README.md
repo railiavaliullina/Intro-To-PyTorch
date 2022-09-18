@@ -1,9 +1,18 @@
 # Intro-To-PyTorch
 
-Реализована логистическая регрессия на PyTorch, обучение на наборе данных KMNIST с использованием:
+
+## About The Project
+
+1) Logistic regression was implemented on PyTorch;
+2) Was trained on the KMNIST dataset using:
 
 - PyTorch,
 - Catalyst,
 - Ignite,
 - Lightning,
-- Fastai.
+- fastai.
+
+
+## Getting Started
+
+File to run:
