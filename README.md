@@ -18,3 +18,4 @@
 File to run:
 
     PyTorch implementation: main.py
+    Other implementations: <Catalyst/Ignite/Lightning/Fastai>Code/main.py
