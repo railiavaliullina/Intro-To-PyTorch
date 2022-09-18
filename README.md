@@ -16,3 +16,5 @@
 ## Getting Started
 
 File to run:
+
+  PyTorch implementation: main.py
